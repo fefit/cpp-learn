@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "*.wpy": "vue",
+    "*.es": "javascript",
+    "*.vue": "vue",
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript",
+    "*.html": "html",
+    ".eslintrc": "json",
+    "*.rs": "rust",
+    "*.el": "elate",
+    "limits": "cpp",
+    "iostream": "cpp"
+  }
+}
